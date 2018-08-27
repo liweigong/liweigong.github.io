@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[my technology stack]]></title>
+    <title><![CDATA[我的技术栈整理]]></title>
     <url>%2F2018%2F08%2F27%2Fmy-technology-stack%2F</url>
     <content type="text"><![CDATA[整理下自己的技术栈. JAVA 数据结构 List Map 内存模型 多线程 泛型 Spring相关 SpringMVC Spring boot Spring cloud 微服务的理解,什么情况下应该使用微服务. mysql数据库 事务 四大特性 原子性、一致性、隔离性、持久性 隔离级别 分布式事务常用解决方案 索引 引擎 mybatis 高可用方案 主从 分库分表 缓存 redis 单机 哨兵 集群 分布式锁 spring 集成 消息队列 常用的MQ产品 事务管理 常见异常解决方案 代码管理和可持续集成(CI) maven git jenkins linux]]></content>
       <tags>
