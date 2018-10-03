@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[k2p_padavan_apclient_setting]]></title>
+    <url>%2F2018%2F10%2F04%2Fk2p-padavan-apclient-setting%2F</url>
+    <content type="text"><![CDATA[1.5G wifi 开启无线桥接，选择模式 APClient(禁用AP)2.内部网络，关掉DHCP。内网设置不变3.系统管理-&gt;操作模式-&gt;无线接入点 完事以后再主路由上查看ip，访问ip就可以访问当前路由。 不过有一点比较奇怪，主路由是官改版的k2p(b1)，终端管理里面显示桥接路由的ip是192.168.xxx.10但是看不到电脑本机ip,电脑本机ip查看是192.168.xxx.11，然后在次级路由里查看终端列表,里面只有11,没有10]]></content>
+      <tags>
+        <tag>硬件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[我的技术栈整理]]></title>
     <url>%2F2018%2F08%2F27%2Fmy-technology-stack%2F</url>
     <content type="text"><![CDATA[整理下自己的技术栈. JAVA 数据结构 List Map 内存模型 多线程 泛型 Spring相关 SpringMVC Spring boot Spring cloud 微服务的理解,什么情况下应该使用微服务. mysql数据库 事务 四大特性 原子性、一致性、隔离性、持久性 隔离级别 分布式事务常用解决方案 索引 引擎 mybatis 高可用方案 主从 分库分表 缓存 redis 单机 哨兵 集群 分布式锁 spring 集成 消息队列 常用的MQ产品 事务管理 常见异常解决方案 代码管理和可持续集成(CI) maven git jenkins linux]]></content>
