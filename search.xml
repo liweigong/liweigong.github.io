@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[k2p_padavan_apclient_setting]]></title>
+    <title><![CDATA[k2p 纯ap模式配置方法]]></title>
     <url>%2F2018%2F10%2F04%2Fk2p-padavan-apclient-setting%2F</url>
     <content type="text"><![CDATA[5G wifi 开启无线桥接，选择模式 APClient(禁用AP) 内部网络，关掉DHCP。内网设置不变 系统管理-&gt;操作模式-&gt;无线接入点 完事以后再主路由上查看ip，访问ip就可以访问当前路由。 不过有一点比较奇怪，主路由是官改版的k2p(b1)，终端管理里面显示桥接路由的ip是192.168.xxx.10但是看不到电脑本机ip,电脑本机ip查看是192.168.xxx.11，然后在次级路由里查看终端列表,里面只有11,没有10]]></content>
       <tags>
-        <tag>硬件</tag>
+        <tag>硬件 k2p padavan</tag>
       </tags>
   </entry>
   <entry>
